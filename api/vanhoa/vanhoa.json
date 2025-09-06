@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "title": "Lễ hội Gò Tháp (Vía Bà Chúa Xứ)",
+    "description": "Lễ hội truyền thống lớn tại Tháp Mười, tổ chức 2 lần/năm (tháng 3 & 11 âm lịch), gắn với tín ngưỡng Bà Chúa Xứ và nhiều hoạt động văn hoá dân gian.",
+    "link": "/website_react_DongThap/vanhoalehoi/1",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTfR1cTnlQW8iawEQww-LVo7X94A694RyuA&s"
+  },
+  {
+    "id": 2,
+    "title": "Lễ hội Sen Đồng Tháp",
+    "description": "Lễ hội cấp tỉnh, tổ chức hằng năm từ 2022, tôn vinh hoa sen – biểu tượng Đồng Tháp, có triển lãm, ẩm thực, du lịch sinh thái.",
+    "link": "/website_react_DongThap/vanhoalehoi/2",
+    "img": "https://scontent.iocvnpt.com/resources/portal/Images/DTP/dtblieu/le_hoi_sen/b264e13d_2529_4317_9211_ea67d60cd86e_124342746.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Lễ hội Hoa Xuân – Hội Hoa Sa Đéc",
+    "description": "Lễ hội du lịch dịp Tết Nguyên đán tại TP. Sa Đéc, trưng bày hoa kiểng, lễ tri ân, du lịch vườn hoa.",
+    "link": "/website_react_DongThap/vanhoalehoi/3",
+    "img": "https://cdn.tcdulichtphcm.vn/upload/1-2022/images/2022-01-18/picture-103-1642497938-471-width757height437.png"
+  },
+  {
+    "id": 4,
+    "title": "Lễ giỗ Phó Bảng Nguyễn Sinh Sắc",
+    "description": "Tổ chức 26–27/10 âm lịch tại Cao Lãnh, tưởng niệm cha Chủ tịch Hồ Chí Minh, kèm hội thi ẩm thực, biểu diễn nghệ thuật.",
+    "link": "/website_react_DongThap/vanhoalehoi/4",
+    "img": "https://scontent.iocvnpt.com/resources/portal/Images/DTP/dtblieu/nam_2022/thang_11/1_412855176.png"
+  },
+  {
+    "id": 5,
+    "title": "Lễ hội Xoài Đồng Tháp",
+    "description": "Lễ hội quảng bá xoài Cao Lãnh, Lai Vung, kết hợp hội chợ, xúc tiến thương mại và du lịch nông sản.",
+    "link": "/website_react_DongThap/vanhoalehoi/5",
+    "img": "https://tramchim.net.vn/uploads/le_hoi.jpg"
+  },
+ 
+  {
+    "id": 10,
+    "title": "Chợ nổi Sa Đéc",
+    "description": "Văn hoá mua bán trên sông, diễn ra quanh năm, thu hút du khách và giữ nét đặc trưng miền Tây.",
+    "link": "/website_react_DongThap/vanhoalehoi/10",
+    "img": "https://namthientravel.com.vn/wp-content/uploads/2021/03/20161018064516-cho-noi-cai-be-gody-2.jpg"
+  },
+
+  {
+    "id": 12,
+    "title": "Nhà cổ Huỳnh Thuỷ Lê",
+    "description": "Di sản kiến trúc tại Sa Đéc, giao thoa Đông – Tây, gắn với tiểu thuyết 'Người tình' của Marguerite Duras.",
+    "link": "/website_react_DongThap/vanhoalehoi/12",
+    "img": "https://bazantravel.com/cdn/medias/uploads/61/61594-nha-co-huynh-thuy-le.jpg"
+  },
+  
+  {
+    "id": 14,
+    "title": "Lễ hội Nghinh Ông Vàm Láng",
+    "description": "Diễn ra mùng 9–10 tháng 3 âm lịch tại xã Vàm Láng, Gò Công Đông. Người dân làm lễ rước sắc Thần Nam Hải (cá Ông), cúng cầu mưa thuận gió hòa, mùa biển an toàn. Có hát bội, đua thuyền, trò chơi dân gian.",
+    "link": "/website_react_TienGiang/vanhoalehoi/14",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLaXZp16XAnZTqCAG_CoxhJEmlB6K6cvo7Pw&s"
+  },
+
+  {
+    "id": 15,
+    "title": "Lễ hội Kỳ Yên",
+    "description": "Tổ chức tại nhiều đình như Vĩnh Bình, Long Hưng, Hòa Tịnh... từ tháng Giêng đến tháng Chạp âm lịch. Có nghi thức cúng Thành Hoàng, rước sắc Thần, phần hội gồm múa lân, hát bội, võ thuật, trò chơi dân gian.",
+    "link": "/website_react_TienGiang/vanhoalehoi/15",
+    "img": ""
+  },
+
+  {
+    "id": 16,
+    "title": "Lễ hội Quan Thánh Đế Quân",
+    "description": "Diễn ra từ mùng 10–13 tháng Giêng âm lịch tại thị xã Gò Công. Người Hoa tổ chức thỉnh kiệu Quan Thánh, lễ tế, lễ phóng sinh, kèm múa lân, võ thuật, nhạc lễ truyền thống.",
+    "link": "/website_react_TienGiang/vanhoalehoi/16",
+    "img": ""
+  },
+
+  {
+    "id": 17,
+    "title": "Lễ giỗ Anh hùng dân tộc Thủ Khoa Huân",
+    "description": "Tổ chức ngày 15 tháng 4 âm lịch tại Đền thờ Nguyễn Hữu Huân (Chợ Gạo). Người dân, học sinh, du khách tham dự lễ tưởng niệm, thắp hương, dâng lễ vật.",
+    "link": "/website_react_TienGiang/vanhoalehoi/17",
+    "img": ""
+  },
+
+  {
+    "id": 18,
+    "title": "Lễ giỗ Anh hùng dân tộc Trương Định",
+    "description": "Diễn ra ngày 20 tháng 8 tại Đền thờ Trương Định (Thị xã Gò Công). Có lễ rước linh, dâng hương, hội trại, triển lãm truyền thống, văn nghệ tưởng niệm Bình Tây Đại Nguyên Soái.",
+    "link": "/website_react_TienGiang/vanhoalehoi/18",
+    "img": ""
+  },
+
+  {
+    "id": 19,
+    "title": "Lễ hội Chiến thắng Rạch Gầm – Xoài Mút",
+    "description": "Tổ chức ngày 20/1 (năm chẵn) tại Châu Thành. Có tái hiện trận đánh lịch sử của Nguyễn Huệ, đua thuyền, thả diều, hội diễn văn nghệ, chiếu phim tư liệu.",
+    "link": "/website_react_TienGiang/vanhoalehoi/19",
+    "img": ""
+  },
+
+  {
+    "id": 20,
+    "title": "Lễ hội Chiến thắng Ấp Bắc",
+    "description": "Diễn ra ngày 2/1 dương lịch tại xã Tân Phú, huyện Cai Lậy. Có diễu binh, dâng hương, triển lãm, cắm trại, hội diễn văn nghệ, trò chơi dân gian.",
+    "link": "/website_react_TienGiang/vanhoalehoi/20",
+    "img": ""
+  },
+
+  {
+    "id": 21,
+    "title": "Lễ hội Nam Kỳ Khởi Nghĩa – Đình Long Hưng",
+    "description": "Ngày 23/11 tại Châu Thành. Lễ cúng tưởng niệm các nghĩa sĩ Nam Kỳ, kèm thi làm bánh, biểu diễn nghệ thuật, sinh hoạt cộng đồng.",
+    "link": "/website_react_TienGiang/vanhoalehoi/21",
+    "img": ""
+  },
+
+  {
+    "id": 22,
+    "title": "Đờn ca tài tử Nam Bộ",
+    "description": "Tiền Giang là cái nôi của đờn ca tài tử, nơi nhiều nhạc sư, nghệ nhân nổi tiếng sinh ra. Nghệ thuật này là phương tiện giải trí, giao lưu cộng đồng và đã được UNESCO công nhận là di sản văn hóa phi vật thể.",
+    "link": "/website_react_TienGiang/vanhoalehoi/22",
+    "img": ""
+  },
+
+  {
+    "id": 23,
+    "title": "Hát bội (Tuồng cổ)",
+    "description": "Hát bội phổ biến trong các lễ Kỳ Yên, Nghinh Ông, đặc biệt ở Gò Công. Nội dung thường ca ngợi trung hiếu, tiết nghĩa. Người dân xem hát bội như một nghi lễ thiêng liêng.",
+    "link": "/website_react_TienGiang/vanhoalehoi/23",
+    "img": ""
+  },
+
+  {
+    "id": 24,
+    "title": "Múa lân – sư – rồng",
+    "description": "Xuất hiện trong nhiều lễ hội lớn, đặc biệt là của cộng đồng người Hoa ở Gò Công. Mang ý nghĩa trừ tà, cầu phúc, đồng thời là tiết mục giải trí hấp dẫn.",
+    "link": "/website_react_TienGiang/vanhoalehoi/24",
+    "img": ""
+  },
+
+  {
+    "id": 25,
+    "title": "Hò khoan, hò mái nhì, hò đưa linh",
+    "description": "Các làn điệu hò được lưu truyền trong sinh hoạt lao động và cộng đồng. Đây là diễn xướng dân gian đậm chất Nam Bộ, phản ánh tâm hồn người dân sông nước.",
+    "link": "/website_react_TienGiang/vanhoalehoi/25",
+    "img": ""
+  },
+
+  {
+    "id": 26,
+    "title": "Nghệ thuật liễn đối, hoành phi vùng Gò Công",
+    "description": "Nghệ thuật chạm khắc câu đối, hoành phi treo tại đình, miếu, đền thờ. Vừa trang trí vừa răn dạy đạo lý, thể hiện phong cách mỹ thuật truyền thống của vùng Gò Công.",
+    "link": "/website_react_TienGiang/vanhoalehoi/26",
+    "img": ""
+  },
+
+  {
+    "id": 27,
+    "title": "Phong tục cúng đình – miếu",
+    "description": "Gắn liền với lễ Kỳ Yên, Nghinh Ông, Quan Thánh. Người dân đến cúng bái cầu mưa thuận gió hòa, mùa màng bội thu, cuộc sống an khang.",
+    "link": "/website_react_TienGiang/vanhoalehoi/27",
+    "img": ""
+  },
+
+  {
+    "id": 28,
+    "title": "Ẩm thực lễ hội Tiền Giang",
+    "description": "Trong lễ hội thường có bánh tét, bánh ít, xôi chè, heo quay, gà luộc. Đặc sản Gò Công như mắm, tôm khô, trái cây cũng được phục vụ du khách.",
+    "link": "/website_react_TienGiang/vanhoalehoi/28",
+    "img": ""
+  }
+]

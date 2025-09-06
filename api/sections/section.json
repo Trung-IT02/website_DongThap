@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Ẩm thực - Đặc sản",
+    "articles": [
+      {
+        "img": "https://tuilanguoimientay.vn/wp-content/uploads/2022/06/nem-lai-vung-1-1.jpg",
+        "imgLink": "/website_react_DongThap/nemlaivung",
+        "main": {
+          "text": "Nem Lai Vung – Di sản ẩm thực Đồng Tháp",
+          "link": "/website_react_DongThap/nem-lai-vung-di-san-am-thuc-dong-thap"
+        },
+        "subs": [
+          {
+            "text": "Nem Lai Vung từng lọt Top 10 đặc sản nem chả nổi tiếng Việt Nam;",
+            "link": "/website_react_DongThap/nem-lai-vung-tung-lot-top-10-dac-san-nem-cha"
+          },
+          {
+            "text": "Nghề làm nem đã được công nhận là Di sản văn hóa phi vật thể cấp quốc gia 2023",
+            "link": "/website_react_DongThap/nghe-lam-nem-di-san-2023"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Văn hoá - Lễ hội",
+    "articles": [
+      {
+        "img": "https://dongthap.gov.vn/documents/34223/0/dinh+dinh+yen.jpg/8cfe4a0d-334f-1344-24b1-3b5824799ba9?t=1618397257068",
+        "imgLink": "/le-hoi-ky-yen",
+        "main": {
+          "text": "Lễ hội Kỳ Yên Đình thần Định Yên",
+          "link": "/website_react_DongThap/le-hoi-ky-yen-dinh-than-dinh-yen"
+        },
+        "subs": [
+          {
+            "text": "Diễn ra vào các ngày 14 – 16 tháng 4 âm lịch hàng năm;",
+            "link": "/website_react_DongThap/le-hoi-ky-yen-lich"
+          },
+          {
+            "text": "Gồm hát bội, đờn ca tài tử, kéo co, đua thuyền",
+            "link": "/website_react_DongThap/le-hoi-ky-yen-hoat-dong"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tin tức - Sự kiện",
+    "articles": [
+      {
+        "img": "https://mediabls.mediatech.vn/upload/image/202508/medium/581652_4dda336a55e578fb986dda1b8d1b10a1.jpg",
+        "imgLink": "/tin-noi-bat",
+        "main": {
+          "text": "Tin nổi bật về Đồng Tháp",
+          "link": "/website_react_DongThap/tin-noi-bat-ve-dong-thap"
+        },
+        "subs": [
+          {
+            "text": "Cầu Rạch Miễu 2 khánh thành, kết nối Đồng Tháp – Vĩnh Long;",
+            "link": "/website_react_DongThap/cau-rach-mieu-2-khanh-thanh"
+          },
+          {
+            "text": "Hạ tầng chuyển đổi số trong giáo dục, mô hình nông nghiệp xanh",
+            "link": "/website_react_DongThap/ha-tang-chuyen-doi-so-giao-duc-nong-nghiep-xanh"
+          }
+        ]
+      }
+    ]
+  }
+]

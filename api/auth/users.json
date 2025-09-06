@@ -1,0 +1,26 @@
+[
+  {
+    "fullname": "Hoàng Trung",
+    "username": "Trung",
+    "password": "Trung12345@@",
+    "role": "user"
+  },
+  {
+    "fullname": "Trung",
+    "username": "Trungne",
+    "password": "Trung12345678@@",
+    "role": "user"
+  },
+  {
+    "fullname": "Admin",
+    "username": "Admin123@",
+    "password": "Admin123@",
+    "role": "admin"
+  },
+  {
+    "fullname": "Trung",
+    "username": "Trung123",
+    "password": "Trung123",
+    "role": "user"
+  }
+]

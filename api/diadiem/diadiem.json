@@ -1,0 +1,195 @@
+[
+  {
+    "id": 1,
+    "title": "Làng hoa Sa Đéc",
+    "description": "Nổi tiếng với vườn hoa rực rỡ, đặc biệt vào dịp Tết và làng hoa kiểng truyền thống.",
+    "link": "/website_react_DongThap/dia-diem/1",
+    "img": "https://media.vov.vn/sites/default/files/styles/large/public/2022-01/vinh_gau_x_sa_dec_-_19.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Vườn quốc gia Tràm Chim",
+    "description": "Khu bảo tồn thiên nhiên ngập nước, nơi sinh sống của sếu đầu đỏ quý hiếm.",
+    "link": "/website_react_DongThap/dia-diem/2",
+    "img": "https://dulichvietnam.com.vn/kinh-nghiem/wp-content/uploads/2019/04/kinh-nghiem-du-lich-vuon-quoc-gia-tram-chim-2-696x391.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Khu du lịch sinh thái Gáo Giồng",
+    "description": "Rừng tràm rộng lớn, có tháp quan sát và nhiều loài chim phong phú.",
+    "link": "/website_react_DongThap/dia-diem/3",
+    "img": "https://cdnnews.mogi.vn/news/wp-content/uploads/2023/10/25090717/khu-du-lich-thai-gao-giong.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Khu di tích – Du lịch sinh thái Xẻo Quýt",
+    "description": "Di tích lịch sử kết hợp du lịch sinh thái với rừng tràm và kênh rạch.",
+    "link": "/website_react_DongThap/dia-diem/4",
+    "img": "https://scontent.iocvnpt.com/resources/portal/Images/DTP/admindl.dtp/XeoQuyt/62602-xeo-quyt-dong-thap-700x400_637006109777999095.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Nhà cổ Huỳnh Thủy Lê",
+    "description": "Kiến trúc Đông – Tây kết hợp, nổi tiếng với câu chuyện tình Marguerite Duras.",
+    "link": "/website_react_DongThap/dia-diem/5",
+    "img": "https://thamhiemmekong.com/wp-content/uploads/2019/12/nha-co-huynh-thuy-le1.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Chùa Phước Kiển (Chùa Lá Sen)",
+    "description": "Chùa độc đáo với lá sen khổng lồ nổi trên mặt nước.",
+    "link": "/website_react_DongThap/dia-diem/6",
+    "img": "https://dulichvietnam.com.vn/vnt_upload/news/02_2025/chua_phuoc_kien_dong_thap_4.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Lăng cụ Phó bảng Nguyễn Sinh Sắc",
+    "description": "Khu tưởng niệm cha của Chủ tịch Hồ Chí Minh, mang giá trị lịch sử.",
+    "link": "/website_react_DongThap/dia-diem/7",
+    "img": "https://bcp.cdnchinhphu.vn/334894974524682240/2023/8/13/img2737-16919037726071551096263.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Bảo tàng tỉnh Đồng Tháp",
+    "description": "Trưng bày các hiện vật văn hóa Óc Eo và lịch sử địa phương.",
+    "link": "/website_react_DongThap/dia-diem/8",
+    "img": "https://scontent.iocvnpt.com/resources/portal/Images/DTP/superadminportal.dtp/trangchu/portal/diadiem/BaoTangDongThap/avatar_cd12_044_bao_tang_tinh_dong_thap_lam_vien_52228406.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Làng chiếu Định Yên",
+    "description": "Làng nghề truyền thống dệt chiếu thủ công lâu đời.",
+    "link": "/website_react_DongThap/dia-diem/9",
+    "img": "https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/472188aEm/lang-chieu-dinh-yen-bi-mat-cua-ngoi-lang-nghe-100-tuoi_9"
+  },
+  {
+    "id": 10,
+    "title": "Công viên Sa Đéc",
+    "description": "Không gian xanh lý tưởng cho gia đình, có hồ sen và tượng Bác Hồ.",
+    "link": "/website_react_DongThap/dia-diem/10",
+    "img": "https://mia.vn/media/uploads/blog-du-lich/cong-vien-sa-dec-1728033591.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Căn nhà úp ngược Sa Đéc",
+    "description": "Điểm check-in độc đáo với kiến trúc úp ngược gây ấn tượng.",
+    "link": "/website_react_DongThap/dia-diem/11",
+    "img": "https://r2.nucuoimekong.com/wp-content/uploads/can-nha-up-nguoc-sa-dec-o-dong-thap.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Văn miếu Cao Lãnh",
+    "description": "Di tích giáo dục và lịch sử nổi bật của tỉnh Đồng Tháp.",
+    "link": "/website_react_DongThap/dia-diem/12",
+    "img": "https://dulichviet.com.vn/images/bandidau/Van-thanh-mieu-Cao-Lanh-Dong-thap.jpg"
+  },
+
+  {
+    "id": 14,
+    "title": "Khu du lịch Đồng Sen (Tháp Mười)",
+    "description": "Khu sinh thái kết hợp thưởng ngoạn cảnh sen và tham gia trải nghiệm miệt vườn.",
+    "link": "/website_react_DongThap/dia-diem/14",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE2e3rABlm53G-KUFT6cdFp8WLMv95oN4MdQ&s"
+  },
+
+  {
+    "id": 17,
+    "title": "Khu du lịch Đồng Tháp Mười(TG)",
+    "description": "Sinh thái vùng ngập nước rộng lớn, nổi bật với cảnh đồng sen và chim muông.",
+    "link": "/website_react_DongThap/dia-diem/17",
+    "img": "https://thamhiemmekong.com/wp-content/uploads/2020/05/khubaotonsinhthaidongthapmuoi.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Vườn quýt hồng Lai Vung",
+    "description": "Làng nghề trồng quýt nổi tiếng với sản phẩm quýt hồng thơm ngon.",
+    "link": "/website_react_DongThap/dia-diem/18",
+    "img": "https://thamhiemmekong.com/wp-content/uploads/2020/01/vuon-quyt-hong-lai-vung-3.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Đền thờ ông bà Đỗ Công Tường",
+    "description": "Di tích tâm linh, gắn liền với lịch sử địa phương.",
+    "link": "/website_react_DongThap/dia-diem/20",
+    "img": "https://dulichcaolanh.dongthap.gov.vn/storage/travel/place/den-tho-ong-ba-do-cong-tuong/den-tho-chu-cho-2.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Khu du lịch sinh thái Phương Nam",
+    "description": "Sinh thái kết hợp văn hóa Nam Bộ và trải nghiệm miệt vườn.",
+    "link": "/website_react_DongThap/dia-diem/21",
+    "img": "https://thamhiemmekong.com/wp-content/uploads/2020/04/khudulichvanhoaphuongnam.jpg"
+  },
+
+  {
+    "id": 23,
+    "title": "Làng bột Sa Đéc",
+    "description": "Làng nghề sản xuất bột truyền thống với sản phẩm nổi tiếng vùng miền.",
+    "link": "/website_react_DongThap/dia-diem/23",
+    "img": "https://cdn2.tuoitre.vn/thumb_w/480/471584752817336320/2024/10/15/lang-bot-17289606184681822375049.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Làng nghề đóng xuồng ghe Long Hậu",
+    "description": "Nơi sản xuất thuyền ghe truyền thống phục vụ vận chuyển sông nước.",
+    "link": "/website_react_DongThap/dia-diem/24",
+    "img": "https://i.ytimg.com/vi/PNWy_7ZUwKc/maxresdefault.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Chùa Vĩnh Tràng",
+    "description": "Chùa lớn với kiến trúc pha trộn Á – Âu, nổi tiếng ở Mỹ Tho.",
+    "link": "/website_react_DongThap/dia-diem/25",
+    "img": "https://mekongsmile.com/wp-content/uploads/chua-vinh-trang-1.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Chợ nổi Cái Bè",
+    "description": "Chợ nổi sầm uất trên sông Tiền, điểm du lịch trải nghiệm mua bán trên sông.",
+    "link": "/website_react_DongThap/dia-diem/26",
+    "img": "https://r2.nucuoimekong.com/wp-content/uploads/cho-noi-cai-be-1.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Cù lao Thới Sơn",
+    "description": "Đảo miệt vườn với các vườn cây trái nhiệt đới và trải nghiệm du lịch sông nước.",
+    "link": "/website_react_DongThap/dia-diem/27",
+    "img": "https://phuotvivu.com/blog/wp-content/uploads/2021/12/cu-lao-thai-son-ben-tre.png"
+  },
+  {
+    "id": 29,
+    "title": "Nhà thờ Cái Bè",
+    "description": "Kiến trúc tôn giáo cổ điển, nổi bật tại huyện Cái Bè.",
+    "link": "/website_react_DongThap/dia-diem/29",
+    "img": "https://thamhiemmekong.com/wp-content/uploads/2020/08/nhathocaibe5.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Chùa Linh Thứu",
+    "description": "Ngôi chùa linh thiêng với cảnh quan thanh tịnh và kiến trúc đẹp.",
+    "link": "/website_react_DongThap/dia-diem/30",
+    "img": "https://r2.nucuoimekong.com/wp-content/uploads/chua-linh-thuu-tien-giang-1.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Biển / Khu du lịch biển Tân Thành",
+    "description": "Bãi biển đẹp, thích hợp nghỉ dưỡng và vui chơi cuối tuần.",
+    "link": "/website_react_DongThap/dia-diem/33",
+    "img": "https://www.homepaylater.vn/static/51ce7217311f92524c297fc6116102aa/9d72c/1_bien_tan_thanh_tua_nhu_mot_vien_ngoc_quy_giua_long_mien_tay_song_nuoc_21ebd64802.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Làng cổ Đông Hòa Hiệp",
+    "description": "Làng cổ mang dấu ấn kiến trúc và văn hóa truyền thống Nam Bộ.",
+    "link": "/website_react_DongThap/dia-diem/34",
+    "img": "https://r2.nucuoimekong.com/wp-content/uploads/lang-co-dong-hoa-hiep-1.jpg"
+  },
+
+  {
+    "id": 37,
+    "title": "Thiền viện Trúc Lâm Chánh Giác",
+    "description": "Thiền viện lớn, điểm tâm linh kết hợp du lịch sinh thái.",
+    "link": "/website_react_DongThap/dia-diem/37",
+    "img": "https://vietair.com.vn/Media/Images/thien-vien-truc-lam-chanh-giac(1).jpg?w=1200&h=630&c=true"
+  }
+]

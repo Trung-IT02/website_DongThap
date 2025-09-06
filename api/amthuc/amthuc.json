@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "title": "Gỏi ngó sen",
+    "description": "Món gỏi tươi mát từ ngó sen thái sợi, trộn chanh, đường, mắm, ớt, rau thơm, thêm thịt gà xé phay — chua, cay, ngọt, thanh mát.",
+    "img": "https://scontent.iocvnpt.com/resources/portal/Images/DTP/dtblieu/nam_2022/thang_4/18_40404361.png",
+    "link": "/website_react_DongThap/am-thuc/1"
+  },
+  {
+    "id": 2,
+    "title": "Hủ tiếu Sa Đéc",
+    "description": "Hủ tiếu đặc trưng với sợi mềm mịn, nước dùng thanh ngọt, ăn kèm thịt, chả, tim, gan, hành ngò.",
+    "img": "https://ticotravel.com.vn/wp-content/uploads/2024/10/hu-tieu-sa-dec-4.jpg",
+    "link": "/website_react_DongThap/am-thuc/2"
+  },
+  {
+    "id": 3,
+    "title": "Ốc gác bếp",
+    "description": "Ốc lác hoặc ốc bươu được treo trên giàn bếp nhiều tháng, sau đó hấp hoặc nướng — lạ miệng, dân dã.",
+    "img": "https://vnanet.vn/Data/Articles/2023/11/08/7070111/vna_potal_co_gai_9x_o_dong_thap_khoi_nghiep_tu_oc_gac_bep_stand.jpg",
+    "link": "/website_react_DongThap/am-thuc/3"
+  },
+  {
+    "id": 4,
+    "title": "Nem Lai Vung",
+    "description": "Nem chua làm từ thịt tươi, da giòn, lá vông chua, ớt cay; hương vị chua, ngọt, mặn, cay hài hòa.",
+    "img": "https://media-cdn-v2.laodong.vn/storage/newsportal/2023/11/22/1270704/Nem-Lai-Vung-Mon-Ngo.jpg",
+    "link": "/website_react_DongThap/am-thuc/4"
+  },
+  {
+    "id": 5,
+    "title": "Chuột đồng quay lu",
+    "description": "Chuột đồng thịt chắc, tẩm gia vị rồi quay trong lu, khi chín phủ mật ong cho lớp da vàng thơm nức.",
+    "img": "https://bazantravel.com/cdn/medias/uploads/30/30039-chuot-quay-lu-670x446.jpg",
+    "link": "/website_react_DongThap/am-thuc/5"
+  },
+  {
+    "id": 6,
+    "title": "Cá lóc nướng trui",
+    "description": "Cá lóc nướng bằng lá sen hoặc rơm, thịt ngọt tự nhiên; ăn kèm rau sống, bánh tráng và mắm nêm.",
+    "img": "https://i-dulich.vnecdn.net/2016/01/11/ca-loc-nuong-trui-cuon-la-sen-4062-7586-1452480423.jpg",
+    "link": "/website_react_DongThap/am-thuc/6"
+  },
+  {
+    "id": 7,
+    "title": "Lẩu cá linh bông điên điển",
+    "description": "Lẩu cá linh mùa nước nổi ăn kèm bông điên điển; hoặc lẩu mắm đặc trưng miền Tây.",
+    "img": "https://bazantravel.com/cdn/medias/uploads/29/29272-ca-linh-dong-thap-700x461.jpg",
+    "link": "/website_react_DongThap/am-thuc/7"
+  },
+  {
+    "id": 8,
+    "title": "Bánh phồng tôm Sa Giang",
+    "description": "Bánh làm từ tôm và bột, phơi khô rồi chiên giòn; nổi tiếng và xuất khẩu hơn 40 quốc gia.",
+    "img": "https://huyvietshop.com/wp-content/uploads/2024/10/z5956639911397_bbeb59216f7b8e0a67710b12c440b6e3.jpg",
+    "link": "/website_react_DongThap/am-thuc/8"
+  },
+  {
+    "id": 9,
+    "title": "Cơm hạt sen",
+    "description": "Cơm nấu với hạt sen hoặc gói bằng lá sen, thơm bổ dưỡng. Ngoài ra còn có chè sen, rượu sen.",
+    "img": "https://scontent.iocvnpt.com/resources/portal/Images/DTP/dtblieu/nam_2022/thang_4/10_559449418.png",
+    "link": "/website_react_DongThap/am-thuc/9"
+  },
+  {
+    "id": 10,
+    "title": "Bánh xèo Cao Lãnh",
+    "description": "Bánh xèo từ bột gạo, đổ trên bếp củi, giòn tan; nhân tôm, vịt, ăn kèm nước mắm chua ngọt.",
+    "img": "https://scontent.iocvnpt.com/resources/portal/Images/DTP/dtblieu/2023/t8/1/2d_534507034.png",
+    "link": "/website_react_DongThap/am-thuc/10"
+  },
+  {
+    "id": 11,
+    "title": "Cam Lai Vung",
+    "description": "Trái vỏ mỏng, ngọt thơm, màu đỏ cam đặc trưng, là đặc sản trái cây nổi bật.",
+    "img": "https://scontent.iocvnpt.com/resources/portal/Images/DTP/dtblieu/quyt_ba_lien/269741827_116653950874759_7343020155938418940_n_196261185.jpeg",
+    "link": "/website_react_DongThap/am-thuc/11"
+  },
+  {
+    "id": 12,
+    "title": "Xoài Cao Lãnh",
+    "description": "Hai giống nổi bật: Cát Hòa Lộc và Cát Chu — ngọt, thơm ngon, đặc sản Cao Lãnh.",
+    "img": "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2024-05/xoai_cat_chu_la_giong_xoai_truyen_thong_tai_dong_thap_tu_bao_doi_qua_xoai_ngan_tron_minh_hoi_chu_ra_o_phan_duoi_qua.jpg",
+    "link": "/website_react_DongThap/am-thuc/12"
+  },
+  {
+    "id": 13,
+    "title": "Rượu sen",
+
+    "description": "Rượu làm từ hạt sen, củ sen và nếp, lên men truyền thống — thơm nhẹ, ý nghĩa từ đất Sen hồng.",
+    "img": "https://huynhduchotel.vn/vnt_upload/news/05_2020/dac_san_dong_thap_muoi_ruou_sen.jpg",
+    "link": "/website_react_DongThap/am-thuc/13"
+  },
+  {
+    "id": 14,
+    "title": "Hủ tiếu Mỹ Tho",
+
+    "description": "Sợi hủ tiếu dai, trắng trong, nước lèo ngọt được ninh từ xương heo và mực khô. Một tô thường có đa dạng topping: xương, thịt băm, lòng heo, đi kèm rau sống, hành phi, tiêu.",
+    "img": "https://bazantravel.com/cdn/medias/uploads/27/27838-hu-tieu-my-tho.jpg",
+    "link": "/website_react_DongThap/am-thuc/14"
+  },
+  {
+  "id": 15,
+  "title": "Chuối quết dừa",
+
+  "description": "Món dân dã, kết hợp chuối sứ xanh và dừa nạo, kèm rau thơm, bánh tráng, đậu phộng và nước chấm chua ngọt.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVvX-dBYE2Fa_XQqsRxgQOECUlXSI-UwdkaQ&s",
+  "link": "/website_react_DongThap/am-thuc/15"
+},
+{
+  "id": 17,
+  "title": "Cháo cá lóc rau đắng",
+
+  "description": "Cháo dân dã chế biến từ cá lóc đồng, gạo rang thơm, ăn kèm rau đắng — dù vị đắng nhưng rất thơm ngọt.",
+  "img": "https://i2.ex-cdn.com/crystalbay.com/files/content/2025/04/25/chao-ca-loc-rau-dang-tien-giang-1-1406.jpg",
+  "link": "/website_react_DongThap/am-thuc/17"
+},
+{
+  "id": 18,
+  "title": "Khô cá bông lau",
+
+  "description": "Cá bông lau phơi một nắng, có thể dùng để kho, làm gỏi hoặc ăn cùng cơm trắng, bún; đặc sản nổi bật Tiền Giang.",
+  "img": "https://i.ytimg.com/vi/yxGZNWKJegI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZuc6VyuxpqIpGd3T0aBMWyBeulg",
+  "link": "/website_react_DongThap/am-thuc/18"
+},
+{
+  "id": 19,
+  "title": "Cá lóc nướng trui",
+
+  "description": "Cá lóc xiên tre rồi nướng trực tiếp trên lửa, ăn kèm rau sống và nước chấm me hoặc muối ớt.",
+  "img": "https://www.vietnamairlines.com/~/media/SEO-images/2025%20SEO/Traffic%20TV/dac-san-tien-giang/dac-san-tien-giang/ca-loc-nuong-trui.png?la=vi-VN",
+  "link": "/website_react_DongThap/am-thuc/19"
+},
+
+{
+  "id": 21,
+  "title": "Bánh vá chợ Giồng",
+
+  "description": "Bánh từ bột gạo, tôm, giá đỗ, đậu phộng; chiên vàng giòn, ăn với mắm hoặc tương, đặc sản Gò Công Tây.",
+  "img": "https://i.ytimg.com/vi/Udflv9akCXw/maxresdefault.jpg",
+  "link": "/website_react_DongThap/am-thuc/21"
+},
+{
+  "id": 22,
+  "title": "Chả nướng chợ Gạo",
+
+  "description": "Làm từ thịt heo, trứng vịt và gia vị, nướng trong nồi gang lót lá chuối; cuốn ăn kèm rau sống và nước mắm chua ngọt.",
+  "img": "https://biolomix.vn/wp-content/uploads/2025/04/260423.jpg",
+  "link": "/website_react_DongThap/am-thuc/22"
+},
+{
+  "id": 23,
+  "title": "Bánh bèo chợ Hàng Bông",
+
+  "description": "Bánh bèo Mỹ Tho nổi tiếng với nhân mặn (bì, bánh mì chiên, đậu xanh, hành phi) và nhân ngọt (nước cốt dừa béo).",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_LHwxYL2aMW_hW7eLHrMyhQ2MzFdd3rIjVA&s",
+  "link": "/website_react_DongThap/am-thuc/23"
+},
+
+{
+  "id": 26,
+  "title": "Sầu riêng Ngũ Hiệp",
+ 
+  "description": "Sầu riêng địa phương với múi to, thịt vàng, béo thơm; nổi bật ở xã Ngũ Hiệp, huyện Cai Lậy.",
+  "img": "https://i.ytimg.com/vi/fwTifbtsF5s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDnoyHKBjJRf3u53P4uPG4zgCD40Q",
+  "link": "/website_react_DongThap/am-thuc/26"
+},
+{
+  "id": 27,
+  "title": "Mận Trung Lương",
+  
+  "description": "Mận đỏ giòn, chua ngọt hài hòa; có hai loại: mận hồng sọc và đỏ đào; thường ăn kèm mắm đường.",
+  "img": "https://www.vuadacsan.com.vn/image/catalog/ti%E1%BB%81n%20giang/man-trung-luong-dac-san-tien-giang-vua-dac-san.jpg",
+  "link": "/website_react_DongThap/am-thuc/27"
+},
+
+{
+  "id": 29,
+  "title": "Mứt dừa Tiền Giang",
+  
+  "description": "Mứt dừa thủ công, không hóa chất, có nhiều vị như non, lá dứa, cà rốt; ngọt thanh tự nhiên.",
+  "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/08/cach-lam-mut-dua-don-gian-e1533553849860.jpg",
+  "link": "/website_react_DongThap/am-thuc/29"
+}
+
+
+
+]
