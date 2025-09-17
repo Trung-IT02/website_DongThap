@@ -11,12 +11,7 @@
     "password": "Trung12345678@@",
     "role": "user"
   },
-  {
-    "fullname": "Admin",
-    "username": "Admin123@",
-    "password": "Admin123@",
-    "role": "admin"
-  },
+
   {
     "fullname": "Trung",
     "username": "Trung123",
