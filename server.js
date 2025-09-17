@@ -7,10 +7,12 @@ const cors = require("cors");
 const jwt = require("jsonwebtoken");
 const bodyParser = require("body-parser");
 const app = express();
-app.use(cors({
-  origin: "https://lhtrungtrung87864.github.io/website_react_DongThap", 
-  credentials: true
-}));
+app.use(
+  cors({
+    origin: "https://lhtrungtrung87864.github.io/website_react_DongThap/",
+    credentials: true,
+  })
+);
 app.use(bodyParser.json());
 
 const PORT = process.env.PORT || 5000;
@@ -18,7 +20,12 @@ const SECRET = process.env.JWT_SECRET || "supersecret";
 
 // ✅ Admin giữ nguyên trong code
 const ADMINS = [
-  { username: "lhtrungAdmin", password: "trung", fullname: "Admin", role: "admin" }
+  {
+    username: "lhtrungAdmin",
+    password: "trung",
+    fullname: "Admin",
+    role: "admin",
+  },
 ];
 
 // ✅ User lấy từ file
@@ -27,12 +34,12 @@ const USERS_FILE = path.join(__dirname, "api/auth/users.json");
 // 🔒 Rate limit login
 const loginLimiter = rateLimit({
   windowMs: 60 * 1000, // 1 phút
-  max: 5,              // tối đa 5 lần thử
-  message: "Quá nhiều lần đăng nhập, vui lòng thử lại sau."
+  max: 5, // tối đa 5 lần thử
+  message: "Quá nhiều lần đăng nhập, vui lòng thử lại sau.",
 });
 
 // 🔑 Login
-app.post("/auth/login", loginLimiter, (req, res) => {
+app.post("/api/auth/login", loginLimiter, (req, res) => {
   const { username, password } = req.body;
 
   // đọc user trong file
@@ -47,24 +54,25 @@ app.post("/auth/login", loginLimiter, (req, res) => {
   // gộp admin + users
   const allUsers = [...ADMINS, ...fileUsers];
 
-  const user = allUsers.find(u => u.username === username && u.password === password);
+  const user = allUsers.find(
+    (u) => u.username === username && u.password === password
+  );
 
-  if (!user) return res.status(401).json({ error: "Sai username hoặc password" });
+  if (!user)
+    return res.status(401).json({ error: "Sai username hoặc password" });
 
   // phát token
-  const token = jwt.sign(
-    { username: user.username, role: user.role },
-    SECRET,
-    { expiresIn: "1h" }
-  );
+  const token = jwt.sign({ username: user.username, role: user.role }, SECRET, {
+    expiresIn: "1h",
+  });
 
   res.json({
     token,
     user: {
       username: user.username,
       fullname: user.fullname,
-      role: user.role
-    }
+      role: user.role,
+    },
   });
 });
 
@@ -80,7 +88,7 @@ app.post("/api/auth/register", (req, res) => {
     users = [];
   }
 
-  if (users.find(u => u.username === newUser.username)) {
+  if (users.find((u) => u.username === newUser.username)) {
     return res.status(400).json({ error: "Username already exists" });
   }
 
@@ -112,12 +120,13 @@ app.get("/api/public", (req, res) => {
 
 // ✅ Route private
 app.get("/api/private", authMiddleware, (req, res) => {
-  res.json({ message: `Xin chào ${req.user.username}, đây là dữ liệu bí mật.` });
+  res.json({
+    message: `Xin chào ${req.user.username}, đây là dữ liệu bí mật.`,
+  });
 });
 
 app.use(cors());
 app.use(express.json());
-
 
 const DIADIEM_FILE = path.join(__dirname, "api/diadiem/diadiem.json"); // ✅ đường dẫn đến file
 const AMTHUC_FILE = path.join(__dirname, "api/amthuc/amthuc.json"); // ✅ đường dẫn đến file
@@ -250,12 +259,12 @@ app.get("/config", (req, res) => {
 });
 
 // Backend trực tiếp gọi Gemini API bằng API_KEY
-app.get("/gemini",geminiLimiter, async (req, res) => {
+app.get("/gemini", async (req, res) => {
   try {
     const response = await fetch("https://api.gemini.com/v1/some-endpoint", {
       headers: {
-        Authorization: `Bearer ${process.env.GEMINI_API_KEY}`
-      }
+        Authorization: `Bearer ${process.env.GEMINI_API_KEY}`,
+      },
     });
     const data = await response.json();
     res.json(data); // trả kết quả về frontend
@@ -264,4 +273,6 @@ app.get("/gemini",geminiLimiter, async (req, res) => {
   }
 });
 
-app.listen(PORT, () => console.log(`Server running on http://localhost:${PORT}`));
+app.listen(PORT, () =>
+  console.log(`Server running on http://localhost:${PORT}`)
+);
