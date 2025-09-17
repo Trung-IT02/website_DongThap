@@ -132,4 +132,28 @@ app.get("/api/vanhoa", (req, res) => {
   });
 });
 
+// API trả về các config an toàn cho frontend
+app.get("/config", (req, res) => {
+  res.json({
+    googleClientId: process.env.GOOGLE_CLIENT_ID,
+    // apiUrl: process.env.API_URL,
+    // apiAuthUrl: process.env.API_AUTH_URL,
+  });
+});
+
+// Backend trực tiếp gọi Gemini API bằng API_KEY
+app.get("/gemini", async (req, res) => {
+  try {
+    const response = await fetch("https://api.gemini.com/v1/some-endpoint", {
+      headers: {
+        Authorization: `Bearer ${process.env.GEMINI_API_KEY}`
+      }
+    });
+    const data = await response.json();
+    res.json(data); // trả kết quả về frontend
+  } catch (error) {
+    res.status(500).json({ error: "Lỗi gọi Gemini API" });
+  }
+});
+
 app.listen(PORT, () => console.log(`Server running on http://localhost:${PORT}`));
