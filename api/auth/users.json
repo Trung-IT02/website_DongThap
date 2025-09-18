@@ -1,22 +1,16 @@
 [
   {
-    "username": "trung",
-    "password": "123456",
-    "role": "user"
-  },
-  {
-    "role": "user"
-  },
-  {
+    "id": "9ba1af61-7b66-4697-8411-6e6c65792862",
     "username": "user1",
-    "password": "123456",
+    "password": "$2b$10$52AZFd.4kEXrALF0RT3kK.TaUOei/eiWTP2CmSHqIJSTcYB26e04m",
     "fullname": "Người dùng 1",
     "role": "user"
   },
   {
-    "username": "user2",
-    "password": "123456",
-    "fullname": "Người dùng 1",
+    "id": "fa19a530-e50e-46bc-a033-6b2695371132",
+    "username": "hoangtrung",
+    "password": "$2b$10$pfu8Sq86DhNcPZCC2/wBB.k0424VgdPdhAB0Zfd6pnnu6z7tSSlWu",
+    "fullname": "trung",
     "role": "user"
   }
 ]

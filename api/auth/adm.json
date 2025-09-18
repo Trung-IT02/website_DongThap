@@ -1,0 +1,9 @@
+[
+  {
+    "id": "admin-1",
+    "username": "lhtrungAdmin",
+    "password": "$2b$10$uVJ1cMdGp3ciyAUCU1Hvde1dnHEJYdfVmu7cPL8vNrmS7mcRxekcO", 
+    "fullname": "Admin",
+    "role": "admin"
+  }
+]
