@@ -13,7 +13,6 @@ const PORT = process.env.PORT || 5000;
 app.use(
   cors({
     origin: "https://lhtrungtrung87864.github.io/website_react_DongThap/",
-    origin: "http://localhost:3000",
     credentials: true,
   })
 );
