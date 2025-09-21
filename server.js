@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 5000;
 // Middleware chung
 app.use(
   cors({
-    origin: "https://lhtrungtrung87864.github.io/website_react_DongThap/",
+    origin: "https://lhtrungtrung87864.github.io",
     credentials: true,
   })
 );
